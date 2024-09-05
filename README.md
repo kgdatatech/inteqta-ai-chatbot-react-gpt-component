@@ -123,4 +123,3 @@ Step 2: Customize any props or design elements to match your project.
 
 ---
 For support or inquiries, contact: keanudatatech@gmail.com or https://www.linkedin.com/in/keanugms.
-```
