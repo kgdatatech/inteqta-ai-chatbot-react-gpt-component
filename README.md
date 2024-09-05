@@ -122,5 +122,5 @@ import ChatBot from './path-to-your-file/ChatBot';
 Step 2: Customize any props or design elements to match your project.
 
 ---
-For support or inquiries, contact: [keanudatatech@gmail.com or https://www.linkedin.com/in/keanugms].
+For support or inquiries, contact: keanudatatech@gmail.com or https://www.linkedin.com/in/keanugms.
 ```
